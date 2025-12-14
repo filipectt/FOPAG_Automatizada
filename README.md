@@ -12,7 +12,6 @@ Este processo manual é propenso a erros e muito demorado, podendo custar quase 
 
 **Bibliotecas:**
 - pandas e openpyxl: Essenciais para a leitura, manipulação e escrita de arquivos Excel (XLSX).
-- google.colab: Utilizada para o upload e download dos arquivos dentro do ambiente de execução do Google Colab.
 
 **Observações finais:**
 - Este código reduziu em aproximadamente 30 minutos o que custava o dia todo e dois funcionários. Meu contexto: aproximadamente 1000 colaboradores pra processar.
