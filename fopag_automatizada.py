@@ -14,8 +14,6 @@ from google.colab import files
 import io
 
 def processar_pagamentos_colab():
-    print("--- Sistema de Conferência (Com Validação de Não Cadastrados) ---")
-
     # 1. Upload
     print("\n Passo 1: Selecione os arquivos 'Ativos Banco' e 'Ativos Empresa'.")
     uploaded = files.upload()
