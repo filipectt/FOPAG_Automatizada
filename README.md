@@ -18,4 +18,4 @@ Este processo manual é propenso a erros e muito demorado, podendo custar quase 
 - Este código reduziu em aproximadamente 30 minutos o que custava o dia todo e dois funcionários. Meu contexto: aproximadamente 1000 colaboradores pra processar.
 - Este código foi pensado pra resolver um problema da minha rotina e de um contexto de conferência de folha de pagamento específico, talvez não funcione pra você.
 
-**Acesso:**
+**Acesso:** https://colab.research.google.com/drive/1zCxp-lstR6TP7E30SCQQXRHL_z15y0zH?usp=sharing
