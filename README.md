@@ -11,11 +11,11 @@ Este processo manual é propenso a erros e muito demorado, podendo custar quase 
 - Ponto chave: esta planilha final foi pensada pra ser gerada exatamente igual ao do modelo do banco pra fins de importação, sendo necessário somente o CTRL C e CTRL V após o processo do script.
 
 **Bibliotecas:**
-- `pandas` e `openpyxl`: Essenciais para a leitura, manipulação e escrita de arquivos Excel (XLSX).
-- `google.colab`: Utilizada para o upload e download dos arquivos dentro do ambiente de execução do Google Colab.
+- pandas e openpyxl: Essenciais para a leitura, manipulação e escrita de arquivos Excel (XLSX).
+- google.colab: Utilizada para o upload e download dos arquivos dentro do ambiente de execução do Google Colab.
 
 **Observações finais:**
-Este código reduziu em aproximadamente 30 minutos o que custava o dia todo e dois funcionários. Meu contexto: aproximadamente 1000 colaboradores pra processar.
-Este código foi pensado pra resolver um problema da minha rotina e de um contexto de conferência de folha de pagamento específico, talvez não funcione pra você.
+- Este código reduziu em aproximadamente 30 minutos o que custava o dia todo e dois funcionários. Meu contexto: aproximadamente 1000 colaboradores pra processar.
+- Este código foi pensado pra resolver um problema da minha rotina e de um contexto de conferência de folha de pagamento específico, talvez não funcione pra você.
 
 **Acesso:**
